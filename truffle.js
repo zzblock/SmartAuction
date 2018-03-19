@@ -2,7 +2,7 @@ module.exports = {
   rpc: {
     host: '127.0.0.1',
     port: 8545,
-    gas: 190000
+    gas: 200000
   },
   // networks: {
   //   development: {
